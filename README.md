@@ -22,10 +22,10 @@ width="250" height="250">
 ## 프로젝트 기획
 - **요구사항 정의서**<br>
 <img src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/e131ffeb-c7c2-45df-b7a2-39c44425a07c"
-width="500px" height="500px"> <br>
+width="500px" height="500px">
 
 
-<img src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/48d47384-5576-4418-80cc-d70372b9ab9a" width="500px" height="500px"> <br>
+<img src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/48d47384-5576-4418-80cc-d70372b9ab9a" width="500px" height="500px"><br>
 
 - **ERD**<br>
 ![220873079-f919574b-7f91-4459-ad39-4d3efafe88c2](https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/80aca7d6-dc4b-4916-98bd-7d7e1ace62cc) <br>
@@ -33,7 +33,8 @@ width="500px" height="500px"> <br>
 
 # 2. 구현 화면
 - **메인화면**<br>
-<img width="953" alt="228572995-f2f9adf2-a216-4df4-9765-2ee2967be23e" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/c120ae77-49c1-4889-8e4f-7f38d289b1a1">
+![image](https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/91d72198-7f31-4d05-b818-a1c6b225a5be)
+
 
 - **회원가입 화면**<br>
 <img width="956" alt="228573168-0fd5d12b-6c83-4925-aa18-c15bc83f9bcc" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/a2310572-a839-46b3-a212-5cd5639a9433">
