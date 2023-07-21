@@ -49,11 +49,9 @@ width="500px" height="500px"> <br>
 - **마이페이지**<br>
 <img width="882" alt="228574151-00d3c567-b919-4764-8f0d-34e73730f1c5" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/5f2e05bf-8a57-4f65-a983-279703330fdf">
 
-- **공연/콘서트 예매**<br>
-<img width="1133" alt="228574738-66b96061-c5b2-4961-82ed-5c719eedb80f" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/9a1219e2-5fda-451e-bc94-d099e793c4b3">
+- **파일 드라이브 화면**<br>
+<img width="1269" alt="228264555-63a79b7c-60ae-4f2f-b323-74a3a31863b3" src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/c031ed10-bedb-45a6-a8f0-8921461d8dc3">
 
-
-<img width="1120" alt="228574841-81efec89-a811-4d6d-bdef-d226b92dd514" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/7a618b32-e8ea-4f49-b5b5-1ceb499784c2">
 
 - **관리자페이지**<br>
 <img width="855" alt="228574978-e453185b-847b-46c3-9918-50e428854c98" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/a2bbc5fd-7bb3-4f40-bdf2-22309b36f30e">
