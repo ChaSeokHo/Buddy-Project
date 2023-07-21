@@ -1,5 +1,6 @@
 # Buddy
-![220711683-d702c7ce-cf57-4169-ae2f-64c2ea0393c7](https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/da608b9d-a54a-4c1e-b629-2a310cba5be5)
+<img src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/da608b9d-a54a-4c1e-b629-2a310cba5be5"
+width="250" height="250">
 
 # 1. 프로젝트 소개
 - 개발 기간 : 2022.11.01 ~ 2022.11.17 (17일) <br>
