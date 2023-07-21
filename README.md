@@ -33,30 +33,13 @@ width="500px" height="500px">
 - **메인화면**<br>
 ![image](https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/91d72198-7f31-4d05-b818-a1c6b225a5be)
 
+- **채팅 : 파일첨부 기능**<br>
+![image](https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/7cbe3011-29ef-4798-b497-ae751ce931be)
 
-- **회원가입 화면**<br>
-<img width="956" alt="228573168-0fd5d12b-6c83-4925-aa18-c15bc83f9bcc" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/a2310572-a839-46b3-a212-5cd5639a9433">
-
-- **음원 차트,위시리스트 화면**<br>
-<img width="953" alt="228573360-bddff9ad-d9e2-4d41-8bd8-6c3d59e1f53f" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/1b67b917-b2be-4e12-8808-a6e9514ade40">
-
-<img width="953" alt="228574578-6e69bc8a-94f8-40c9-a482-97c760e1c346" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/15e75711-13ff-4aae-997d-06716af251e4"> <br>
-
-- **멤버십 구매**<br>
-<img width="626" alt="228573765-5cf5a00f-3f35-4325-a385-5a0de1a4a3e4" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/adfca8a8-e0d8-40b1-90bd-544a339ba885">
-
-- **마이페이지**<br>
-<img width="882" alt="228574151-00d3c567-b919-4764-8f0d-34e73730f1c5" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/5f2e05bf-8a57-4f65-a983-279703330fdf">
 
 - **파일 드라이브 화면**<br>
 <img width="1269" alt="228264555-63a79b7c-60ae-4f2f-b323-74a3a31863b3" src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/c031ed10-bedb-45a6-a8f0-8921461d8dc3">
 
 
-- **관리자페이지**<br>
-<img width="855" alt="228574978-e453185b-847b-46c3-9918-50e428854c98" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/a2bbc5fd-7bb3-4f40-bdf2-22309b36f30e">
-
-
-<img width="911" alt="228575378-eb5585e2-dd5c-461e-afc5-671c4b230b42" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/5e938df9-366d-49bd-92c2-e5840f83b2c9">
-
-
-<img width="914" alt="228575246-4690fa63-b8db-438a-ba7c-ecb89df1b3bf" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/ffbbb5f7-011f-4b1e-b1d6-7ea108984ce6">
+- **일정관리 캘린더 화면**<br>
+<img width="1273" alt="228264715-afce99d0-9f6e-4137-8605-2d756d11e4ef" src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/ee7feb79-e023-4678-85e5-69f8d7bad7a1">
