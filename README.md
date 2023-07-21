@@ -7,7 +7,7 @@ width="250" height="250">
 
 - 개발인원 : 5명 <br>
 - 구현기능 : 구현기능 : 팀 채팅 기능, 캘린더 기능, 파일 공유기능 <br>
-- **개발환경**
+- **개발환경** <br>
   IDE : IntelliJ IDEA<br>
   JDK : open jdk 11<br>
   Framework : SpringBoot, Mybatis<br>
