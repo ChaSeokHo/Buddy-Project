@@ -1,25 +1,23 @@
-<center> # 📱Buddy
+# 📱Buddy
 <img src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/da608b9d-a54a-4c1e-b629-2a310cba5be5"
 width="250" height="250">
 
 # 1. 프로젝트 소개
-- 개발 기간 : 2022.11.01 ~ 2022.11.17 (17일) <br>
-
+- 개발 기간 :  2022.12.12 ~ 2022.01.05 <br>
 
 - 개발인원 : 5명 <br>
-- 팀원<br>
-  차석호(팀원) : 티켓팅 사이트 구현, 캘린더 기능 구현 , AWS 서버 담당<br>
-  신유진(팀원) : 위시리스트, 마이페이지, 문의하기<br>
-  강예찬(팀원) : 관리자페이지(메인화면, 회원관리, 음원/공연 CRUD), 멤버십 결제<br>
-  박세진(팀장) : 음악 컨트롤러 기능, 관리자페이지(문의사항)<br>
-  정택구(팀원) : 회원가입 / 로그인, 차트, 메인페이지<br>
-
-- 개발환경
-  Web : Java, JavaScript, Jquery, HTML5, CSS3 <br>
-  DataBase : Oracle 11 <br>
-  Tool : Eclipse, Visual Studio Code <br>
-  Iaas : AWS <br>
-  etc : Git, Tomcat 8.5 <br>
+- 구현기능 : 구현기능 : 팀 채팅 기능, 캘린더 기능, 파일 공유기능 <br>
+- **개발환경**
+  IDE : IntelliJ IDEA<br>
+  JDK : open jdk 11<br>
+  Framework : SpringBoot, Mybatis<br>
+  Tool : Gradle<br>
+  Web : Java, JavaScript, Jquery, HTML5, CSS3<br>
+  WAS : Tomcat 8.5<br>
+  IaaS : AWS<br>
+  DataBase : Oracle 11<br>
+  etc : Git<br>
+  Library : Thyemleaf, fullCalendar API, download, js<br>
 
 ## 프로젝트 기획
 - **요구사항 정의서**<br>
