@@ -7,17 +7,17 @@ width="250" height="250">
 
 - 개발인원 : 5명 <br>
 - 구현기능 : 구현기능 : 팀 채팅 기능, 캘린더 기능, 파일 공유기능 <br>
-- **개발환경** <br>
-  IDE : IntelliJ IDEA<br>
-  JDK : open jdk 11<br>
-  Framework : SpringBoot, Mybatis<br>
-  Tool : Gradle<br>
-  Web : Java, JavaScript, Jquery, HTML5, CSS3<br>
-  WAS : Tomcat 8.5<br>
-  IaaS : AWS<br>
-  DataBase : Oracle 11<br>
-  etc : Git<br>
-  Library : Thyemleaf, fullCalendar API, download, js<br>
+  ## 개발환경 <br>
+  - IDE : IntelliJ IDEA<br>
+  - JDK : open jdk 11<br>
+  - Framework : SpringBoot, Mybatis<br>
+  - Tool : Gradle<br>
+  - Web : Java, JavaScript, Jquery, HTML5, CSS3<br>
+  - WAS : Tomcat 8.5<br>
+  - IaaS : AWS<br>
+  - DataBase : Oracle 11<br>
+  - etc : Git<br>
+  - Library : Thyemleaf, fullCalendar API, download, js<br>
 
 ## 프로젝트 기획
 - **요구사항 정의서**<br>
