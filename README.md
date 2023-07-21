@@ -24,8 +24,12 @@ width="250" height="250">
 <img src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/e131ffeb-c7c2-45df-b7a2-39c44425a07c"
 width="500px" height="500px"> <br>
 
+
+<img src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/48d47384-5576-4418-80cc-d70372b9ab9a" width="500px" height="500px"> <br>
+
 - **ERD**<br>
-<img src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/8fdaaaa4-427e-4fb0-a558-5801071c1e7d" width="500px" height="500px"> <br>
+![220873079-f919574b-7f91-4459-ad39-4d3efafe88c2](https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/80aca7d6-dc4b-4916-98bd-7d7e1ace62cc) <br>
+
 
 # 2. 구현 화면
 - **메인화면**<br>
