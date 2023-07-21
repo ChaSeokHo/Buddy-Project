@@ -21,7 +21,8 @@ width="250" height="250">
 
 ## 프로젝트 기획
 - **요구사항 정의서**<br>
-<img src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/26319d8f-c02c-40f8-99d2-9b41df14a639" width="500px" height="500px"> <br>
+<img src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/e131ffeb-c7c2-45df-b7a2-39c44425a07c"
+width="500px" height="500px"> <br>
 
 - **ERD**<br>
 <img src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/8fdaaaa4-427e-4fb0-a558-5801071c1e7d" width="500px" height="500px"> <br>
