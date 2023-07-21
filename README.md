@@ -1,4 +1,4 @@
-# Buddy
+# 📱Buddy
 <img src="https://github.com/ChaSeokHo/Buddy-Project/assets/116864886/da608b9d-a54a-4c1e-b629-2a310cba5be5"
 width="250" height="250">
 
